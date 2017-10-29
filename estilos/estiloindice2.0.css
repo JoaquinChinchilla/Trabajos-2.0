@@ -1,0 +1,32 @@
+#titulo{width: 96%; height: 150px; padding: 0% 2%; background-color: #B3B6B7  ;border-radius: 10px;}
+#titulo > div {max-width: 960px; margin: 0px auto; padding-top:20px; text-align:center;}
+#titulo h1 {font: bold 40px Arial, sans-serif;}
+#titulo h3 {font: bold 18px Arial, sans-serif;}
+#logo {padding: 0px; margin: 0px; border-radius: 10px; position: absolute; left: 100px; top: 30px;
+width: 120px; height: 100px;  }
+#menuprincipal{width: 96%; height: 50px; padding: 0.3% 2%; background-color: #DEDEDE;border-radius: 10px;}
+#menuprincipal > div {width: 960px; margin: 0px auto;}
+#listamenu > li{position: relative; display: inline-block; height:35 px; padding; 15px 10px 0px 10px; margin-right: 5px;}
+#listamenu > li > ul {display: none; position:absolute; top: 20px; left: 0px; background-color: #B3B6B7; box-shadow: 3px 3px 5px rgba(100, 100, 100, 0.7);
+border-radius: 5px 5px 5px 5px; list-style: none; z-index: 1000;}
+#listamenu >li > ul > li {width:300px; height: 35px;padding-top: 10px; padding-left:10px;}
+#listamenu li:hover ul{display:block;}
+#listamenu a {font: bold 18px Arial, sans-serif; color:#000000; text-decoration: none;}
+#menuprincipal li:hover {background-color:#DEDEDE;}
+#pie{width: 100%; height: auto; padding-top: 2%; padding-left: 0%;background:#B3B6B7; border-radius: 10px;position:relative;}
+#pie > div {width: 1255px; margin: 0px auto ;border-radius: 10px;}
+#pie p {font: bold 18px Arial, sans-serif; color:#000000; text-decoration: none;text-align:left;}
+#pie a {font: bold 18px Arial, sans-serif; color:#000000; text-decoration: none; text-align:left;}
+#comentario{width: 50%; height: auto; padding: 2%;}
+#comentario > div {width: 1050px; margin: 0px auto ;border-radius: 10px; background-color:;}
+#comentario p{font: bold 25px Arial, sans-serif; text-align: justify; color: #FFFFFF;}
+#lateral{width: 350px; height:auto;background-color:#DEDEDE;border-radius: 10px;position:absolute; top:270px;left:1160px}
+#lateral > div {height: auto; margin: 0px auto ;border-radius: 10px;padding-top: 2%}
+#lateral p {font: bold 18px Arial, sans-serif; color:#000000; text-decoration: none;text-align:center;}
+#facebook{position:absolute; top: 95px; left:1310px;}
+#twitter{position:absolute; top: 95px; left:1375px;}
+#blogger{position:absolute; top: 95px; left:1440px;}
+#logohtml{width: 120px; height: 100px;}
+#logocss2{width: 90px; height: 100px;}
+#logomaps{width: 100px; height: 100px;}
+#logomaps2{width: 290px; height: 250px;position:absolute; top:150px;left:650px}
